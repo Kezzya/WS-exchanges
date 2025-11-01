@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\bin\Debug\net6.0\BaseStockConnectorInterface.deps.json
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\bin\Debug\net6.0\BaseStockConnectorInterface.dll
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\bin\Debug\net6.0\BaseStockConnectorInterface.pdb
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\bin\Debug\net6.0\CryptoExchange.Net.dll
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\bin\Debug\net6.0\CryptoExchange.Net.pdb
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\bin\Debug\net6.0\CryptoExchange.Net.xml
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\obj\Debug\net6.0\BaseStockConnectorInterface.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\obj\Debug\net6.0\BaseStockConnectorInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\obj\Debug\net6.0\BaseStockConnectorInterface.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\obj\Debug\net6.0\BaseStockConnectorInterface.AssemblyInfo.cs
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\obj\Debug\net6.0\BaseStockConnectorInterface.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\obj\Debug\net6.0\BaseStockConnectorInterface.sourcelink.json
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\obj\Debug\net6.0\BaseStoc.294C4BAA.Up2Date
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\obj\Debug\net6.0\BaseStockConnectorInterface.dll
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\obj\Debug\net6.0\refint\BaseStockConnectorInterface.dll
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\obj\Debug\net6.0\BaseStockConnectorInterface.pdb
+C:\Users\user\source\repos\mm-connectors-dotnet\Connectors\BaseStockConnectorInterface\obj\Debug\net6.0\ref\BaseStockConnectorInterface.dll

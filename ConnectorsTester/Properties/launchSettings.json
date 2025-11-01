@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConnectorsTester": {
+      "commandName": "Project",
+      "commandLineArgs": "fameex"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\bin\Debug\net6.0\ChainApex.Net.deps.json
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\bin\Debug\net6.0\ChainApex.Net.dll
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\bin\Debug\net6.0\ChainApex.Net.pdb
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\bin\Debug\net6.0\CryptoExchange.Net.dll
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\bin\Debug\net6.0\CryptoExchange.Net.pdb
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\bin\Debug\net6.0\CryptoExchange.Net.xml
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\obj\Debug\net6.0\ChainApex.Net.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\obj\Debug\net6.0\ChainApex.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\obj\Debug\net6.0\ChainApex.Net.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\obj\Debug\net6.0\ChainApex.Net.AssemblyInfo.cs
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\obj\Debug\net6.0\ChainApex.Net.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\obj\Debug\net6.0\ChainApex.Net.sourcelink.json
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\obj\Debug\net6.0\ChainApe.252C3122.Up2Date
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\obj\Debug\net6.0\ChainApex.Net.dll
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\obj\Debug\net6.0\refint\ChainApex.Net.dll
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\obj\Debug\net6.0\ChainApex.Net.pdb
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\ChainApex.Net\obj\Debug\net6.0\ref\ChainApex.Net.dll

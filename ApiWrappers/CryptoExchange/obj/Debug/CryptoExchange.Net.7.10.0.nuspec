@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CryptoExchange.Net</id>
+    <version>7.10.0</version>
+    <authors>JKorf</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>icon.png</icon>
+    <projectUrl>https://github.com/JKorf/CryptoExchange.Net</projectUrl>
+    <description>CryptoExchange.Net is a base library which is used to implement different cryptocurrency (exchange) API's. It provides a standardized way of implementing different API's, which results in a very similar experience for users of the API implementations.</description>
+    <releaseNotes>https://github.com/JKorf/CryptoExchange.Net?tab=readme-ov-file#release-notes</releaseNotes>
+    <tags>OKX OKX.Net Mexc Mexc.Net Kucoin Kucoin.Net Kraken Kraken.Net Huobi Huobi.Net CoinEx CoinEx.Net Bybit Bybit.Net Bitget Bitget.Net Bitfinex Bitfinex.Net Binance Binance.Net CryptoCurrency CryptoCurrency Exchange</tags>
+    <repository type="git" url="https://github.com/JKorf/CryptoExchange.Net.git" commit="1b5089e05ed819043bec18cccb2ade28071d70c1" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Http" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Abstractions" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Json" version="8.0.4" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Http" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Abstractions" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Json" version="8.0.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\bin\Debug\netstandard2.0\CryptoExchange.Net.dll" target="lib\netstandard2.0\CryptoExchange.Net.dll" />
+    <file src="C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\bin\Debug\netstandard2.0\CryptoExchange.Net.xml" target="lib\netstandard2.0\CryptoExchange.Net.xml" />
+    <file src="C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\bin\Debug\netstandard2.1\CryptoExchange.Net.dll" target="lib\netstandard2.1\CryptoExchange.Net.dll" />
+    <file src="C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\bin\Debug\netstandard2.1\CryptoExchange.Net.xml" target="lib\netstandard2.1\CryptoExchange.Net.xml" />
+    <file src="C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\Icon\icon.png" target="\icon.png" />
+  </files>
+</package>

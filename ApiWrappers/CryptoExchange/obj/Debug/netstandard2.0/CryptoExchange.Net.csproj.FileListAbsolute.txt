@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\bin\Debug\netstandard2.0\CryptoExchange.Net.deps.json
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\bin\Debug\netstandard2.0\CryptoExchange.Net.dll
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\bin\Debug\netstandard2.0\CryptoExchange.Net.pdb
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\bin\Debug\netstandard2.0\CryptoExchange.Net.xml
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\obj\Debug\netstandard2.0\CryptoExchange.Net.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\obj\Debug\netstandard2.0\CryptoExchange.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\obj\Debug\netstandard2.0\CryptoExchange.Net.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\obj\Debug\netstandard2.0\CryptoExchange.Net.AssemblyInfo.cs
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\obj\Debug\netstandard2.0\CryptoExchange.Net.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\obj\Debug\netstandard2.0\CryptoExchange.Net.sourcelink.json
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\obj\Debug\netstandard2.0\CryptoExchange.Net.dll
+C:\Users\user\source\repos\mm-connectors-dotnet\ApiWrappers\CryptoExchange\obj\Debug\netstandard2.0\CryptoExchange.Net.pdb
